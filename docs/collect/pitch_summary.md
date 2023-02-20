@@ -1,0 +1,4 @@
+# Summary
+By accurately analyzing protein values from blood samples, the company enables General Practitioners to make informed decisions about whether a patient needs to be referred to a hospital or not. This not only reduces the number of unnecessary hospital visits but also helps to minimize healthcare costs.
+
+As part of its commitment to providing top-quality healthcare services, the company is currently developing an innovative algorithm that will convert complex lab data into an easy-to-understand diagnostic format. This will allow General Practitioners to quickly and accurately interpret lab results, making it easier to diagnose and treat patients in a timely manner.
