@@ -36,10 +36,8 @@ You can install these modules using pip by running the following command:
 ### Github   
 - [Sezgin](https://github.com/Sezgin3880)               
 - [Azlaan](https://github.com/AzlaanIrshad)
-- [Hicham](https://github.com/Hicham-aii)
 
 
 ### Linkedin
 - [Sezgin](https://www.linkedin.com/in/sezgin-karaduman-619483221/)               
 - [Azlaan](https://www.linkedin.com/in/azlaan-irshad/)
-- [Hicham](https://www.linkedin.com/in/hicham-ourahou-07b97b200/)
